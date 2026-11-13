@@ -1,0 +1,9 @@
+# KiCad
+*-backups/
+fp-info-cache
+*.kicad_prl
+*.lck
+# Arduino / editors
+build/
+.vscode/
+.DS_Store
