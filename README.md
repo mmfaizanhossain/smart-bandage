@@ -2,7 +2,7 @@
 
 A wearable, rechargeable smart bandage that streams wound-site **temperature and humidity** to a phone over **Bluetooth Low Energy** and drives **low-frequency vibration motors** for mechanotherapy. It is built on a **Seeed XIAO nRF52840** (Nordic nRF52840, Arm Cortex-M4F, BLE 5.0).
 
-This project is published as a first-author paper at **IEEE GCCE 2025**: *"From Skin to Screen: Real-Time Wound Monitoring with a Smart Bandage and Smartphone."* (Citation below.)
+This project is published as a first-author paper at **IEEE GCCE 2025** ([DOI: 10.1109/GCCE65946.2025.11275449](https://doi.org/10.1109/GCCE65946.2025.11275449)): *"From Skin to Screen: Real-Time Wound Monitoring with a Smart Bandage and Smartphone."* (Citation below.)
 
 <p align="center">
   <img src="docs/media/prototype_top.jpg" width="260" alt="Prototype, top view">
@@ -80,19 +80,20 @@ The KiCad 9 project is in [`hardware/kicad/`](hardware/kicad/), with the schemat
 
 ## Paper
 
-> F. M. Hossain, D. J. G. Tan, I. M. Ameer, Q. Q. Ayun, S. Matsunaga, S. A. Junaideen, and Z. Liang, "From Skin to Screen: Real-Time Wound Monitoring with a Smart Bandage and Smartphone," in *Proc. IEEE Global Conference on Consumer Electronics (GCCE)*, 2025. DOI: _add DOI_
+> F. M. Hossain, D. J. G. Tan, I. M. Ameer, Q. Q. Ayun, S. Matsunaga, S. A. Junaideen, and Z. Liang, "From Skin to Screen: Real-Time Wound Monitoring with a Smart Bandage and Smartphone," in *2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)*, Osaka, Japan, Sep. 2025. DOI: [10.1109/GCCE65946.2025.11275449](https://doi.org/10.1109/GCCE65946.2025.11275449)
 
 ```bibtex
 @inproceedings{hossain2025skin,
   title     = {From Skin to Screen: Real-Time Wound Monitoring with a Smart Bandage and Smartphone},
   author    = {Hossain, Faizan M. and Tan, Daphne Jillian Gan and Ameer, Imad Mohamed and Ayun, Queena Qurrota and Matsunaga, Suo and Junaideen, Suleiman Arif and Liang, Zilu},
-  booktitle = {Proc. IEEE Global Conference on Consumer Electronics (GCCE)},
+  booktitle = {2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)},
+  address   = {Osaka, Japan},
+  month     = sep,
   year      = {2025},
-  doi       = {ADD-DOI}
+  publisher = {IEEE},
+  doi       = {10.1109/GCCE65946.2025.11275449}
 }
 ```
-
-The accepted manuscript is available on my [portfolio site](https://YOUR-PORTFOLIO-URL).
 
 ## Team
 
